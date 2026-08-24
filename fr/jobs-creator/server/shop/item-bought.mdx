@@ -1,0 +1,32 @@
+---
+title: "Item bought"
+description: "Se déclenche quand un joueur achète un item ou une arme à un marker de boutique."
+icon: "cart-shopping"
+---
+
+Se déclenche quand un joueur achète un item/arme à un marker de boutique.
+
+<CodeGroup>
+
+```lua Event
+RegisterNetEvent("jobs_creator:shop:boughtItem", function(playerId, markerId, itemName, itemQuantity, totalPrice)
+end)
+```
+
+```lua Example
+RegisterNetEvent("jobs_creator:shop:boughtItem", function(playerId, markerId, itemName, itemQuantity, totalPrice)
+    print("Player ID: " .. playerId .. " bought x" .. itemQuantity .. " " .. itemName .. " from shop " .. markerId)
+end)
+```
+
+</CodeGroup>
+
+### Paramètres
+
+| Nom | Type de donnée | Description |
+| --- | --- | --- |
+| `playerId` | integer | Server ID du joueur |
+| `markerId` | integer | ID du marker |
+| `itemName` | string | Nom de l'item ou de l'arme |
+| `itemQuantity` | integer | Quantité achetée |
+| `totalPrice` | integer | Prix total payé |

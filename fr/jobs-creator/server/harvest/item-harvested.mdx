@@ -1,0 +1,33 @@
+---
+title: "Item harvested"
+description: "Se déclenche quand un joueur récolte un item depuis un marker de récolte."
+icon: "leaf"
+---
+
+Se déclenche quand un joueur récolte un item à un marker de récolte.
+
+<CodeGroup>
+
+```lua Event
+RegisterNetEvent("jobs_creator:harvest:harvestedItem", function(playerId, markerId, itemName, itemType, itemQuantity)
+end)
+```
+
+```lua Example
+RegisterNetEvent("jobs_creator:harvest:harvestedItem", function(playerId, markerId, itemName, itemType, itemQuantity)
+    print("Player ID: " .. playerId .. " harvested " .. itemQuantity .. " " .. itemName .. " from marker " .. markerId)
+    TriggerEvent("xp_system:addExperience", playerId, "harvest")
+end)
+```
+
+</CodeGroup>
+
+### Paramètres
+
+| Nom | Type de donnée | Description |
+| --- | --- | --- |
+| `playerId` | integer | Server ID du joueur |
+| `markerId` | integer | ID du marker |
+| `itemName` | string | Nom de l'item |
+| `itemType` | string | Type d'item (`item`, `weapon`, `account`) |
+| `itemQuantity` | integer | Quantité récoltée |
