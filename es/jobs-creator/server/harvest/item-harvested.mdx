@@ -1,0 +1,33 @@
+---
+title: "Item harvested"
+description: "Se dispara cuando un jugador recolecta un objeto en un marcador de recolección."
+icon: "leaf"
+---
+
+Se dispara cuando un jugador recolecta un objeto en un marcador de recolección.
+
+<CodeGroup>
+
+```lua Event
+RegisterNetEvent("jobs_creator:harvest:harvestedItem", function(playerId, markerId, itemName, itemType, itemQuantity)
+end)
+```
+
+```lua Example
+RegisterNetEvent("jobs_creator:harvest:harvestedItem", function(playerId, markerId, itemName, itemType, itemQuantity)
+    print("Player ID: " .. playerId .. " harvested " .. itemQuantity .. " " .. itemName .. " from marker " .. markerId)
+    TriggerEvent("xp_system:addExperience", playerId, "harvest")
+end)
+```
+
+</CodeGroup>
+
+### Parámetros
+
+| Nombre | Tipo de dato | Descripción |
+| --- | --- | --- |
+| `playerId` | integer | ID de servidor del jugador |
+| `markerId` | integer | ID del marcador |
+| `itemName` | string | Nombre del objeto |
+| `itemType` | string | Tipo de objeto (`item`, `weapon`, `account`) |
+| `itemQuantity` | integer | Cantidad recolectada |

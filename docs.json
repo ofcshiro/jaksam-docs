@@ -2398,6 +2398,1172 @@
           }
         ],
         "default": false
+      },
+      {
+        "language": "es",
+        "tabs": [
+          {
+            "tab": "Inicio",
+            "icon": "house",
+            "groups": [
+              {
+                "group": "General",
+                "icon": "house",
+                "pages": [
+                  "es/index",
+                  "es/jaksams-scripts/how-to-update-the-scripts",
+                  "es/jaksams-scripts/troubleshooting",
+                  "es/jaksams-scripts/common-faq",
+                  "es/jaksams-scripts/nexus-terms",
+                  "es/jaksams-scripts/escrow-errors"
+                ]
+              },
+              {
+                "group": "Inventory",
+                "icon": "boxes-stacked",
+                "expanded": true,
+                "root": "es/jaksam-inventory/home",
+                "pages": [
+                  "es/jaksam-inventory/installation",
+                  "es/jaksam-inventory/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "hire-a-helper",
+                    "pages": [
+                      "es/jaksam-inventory/guides/customize-theme",
+                      "es/jaksam-inventory/guides/admin-inventory",
+                      "es/jaksam-inventory/guides/metadata",
+                      "es/jaksam-inventory/guides/context-actions",
+                      "es/jaksam-inventory/guides/action-buttons",
+                      "es/jaksam-inventory/guides/weapon-attachments",
+                      "es/jaksam-inventory/guides/block-police-weapon-rob",
+                      "es/jaksam-inventory/guides/crafting"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Jobs Creator",
+                "icon": "briefcase",
+                "expanded": true,
+                "root": "es/jobs-creator/home",
+                "pages": [
+                  "es/jobs-creator/installation",
+                  "es/jobs-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "clock-rotate-left",
+                    "pages": [
+                      "es/jobs-creator/updating-script-from-old-versions"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Drugs Creator",
+                "icon": "pills",
+                "expanded": true,
+                "root": "es/drugs-creator/home",
+                "pages": [
+                  "es/drugs-creator/installation",
+                  "es/drugs-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "photo-film",
+                    "pages": [
+                      "es/drugs-creator/guides/custom-audio-and-images"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Doors Creator",
+                "icon": "door-open",
+                "expanded": true,
+                "root": "es/doors-creator/home",
+                "pages": [
+                  "es/doors-creator/installation",
+                  "es/doors-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "door-closed",
+                    "pages": [
+                      "es/doors-creator/change-doors-icon",
+                      "es/doors-creator/admin-bypass-lock"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Missions Creator",
+                "icon": "bullseye",
+                "expanded": true,
+                "root": "es/missions-creator/home",
+                "pages": [
+                  "es/missions-creator/installation",
+                  "es/missions-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "flag",
+                    "pages": [
+                      "es/missions-creator/how-to-start",
+                      "es/missions-creator/how-to-add-minigames"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Blips Creator",
+                "icon": "location-dot",
+                "expanded": true,
+                "root": "es/blips-creator/home",
+                "pages": [
+                  "es/blips-creator/installation",
+                  "es/blips-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "map-pin",
+                    "pages": [
+                      "es/blips-creator/how-to-use-custom-sprites"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Farming Creator",
+                "icon": "tractor",
+                "expanded": true,
+                "root": "es/farming-creator/home",
+                "pages": [
+                  "es/farming-creator/installation",
+                  "es/farming-creator/faq"
+                ]
+              },
+              {
+                "group": "Shops Creator",
+                "icon": "cart-shopping",
+                "expanded": true,
+                "root": "es/shops-creator/home",
+                "pages": [
+                  "es/shops-creator/installation",
+                  "es/shops-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "image",
+                    "pages": [
+                      "es/shops-creator/how-to-use-images-for-items"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Robberies Creator",
+                "icon": "mask",
+                "expanded": true,
+                "root": "es/robberies-creator/home",
+                "pages": [
+                  "es/robberies-creator/installation",
+                  "es/robberies-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "gamepad",
+                    "pages": [
+                      "es/robberies-creator/how-to-edit-minigames"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Vehicles Keys",
+                "icon": "key",
+                "expanded": true,
+                "root": "es/vehicles-keys/home",
+                "pages": [
+                  "es/vehicles-keys/installation",
+                  "es/vehicles-keys/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "key",
+                    "pages": [
+                      "es/vehicles-keys/how-to-give-keys-with-car-command",
+                      "es/vehicles-keys/fix-hotwiring-bought-car",
+                      "es/vehicles-keys/lock-unlock-vehicle"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Dealerships Creator",
+                "icon": "car",
+                "expanded": true,
+                "root": "es/dealerships-creator/home",
+                "pages": [
+                  "es/dealerships-creator/installation",
+                  "es/dealerships-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "car-side",
+                    "pages": [
+                      "es/dealerships-creator/adding-custom-vehicles-classes"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Races Creator",
+                "icon": "flag-checkered",
+                "expanded": true,
+                "root": "es/races-creator/home",
+                "pages": [
+                  "es/races-creator/installation",
+                  "es/races-creator/faq"
+                ]
+              },
+              {
+                "group": "Trackers Creator",
+                "icon": "satellite-dish",
+                "expanded": true,
+                "root": "es/trackers-creator/home",
+                "pages": [
+                  "es/trackers-creator/installation",
+                  "es/trackers-creator/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "gauge-high",
+                    "pages": [
+                      "es/trackers-creator/optimization"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Easy Allowlist",
+                "icon": "shield-check",
+                "expanded": true,
+                "root": "es/easy-allowlist/home",
+                "pages": [
+                  "es/easy-allowlist/installation",
+                  "es/easy-allowlist/faq",
+                  {
+                    "group": "Guías",
+                    "icon": "terminal",
+                    "pages": [
+                      "es/easy-allowlist/commands-usage",
+                      "es/easy-allowlist/how-to-enable-discord-features",
+                      "es/easy-allowlist/external-deferrals"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Billing UI",
+                "icon": "file-invoice-dollar",
+                "expanded": true,
+                "root": "es/billing-ui/home",
+                "pages": [
+                  "es/billing-ui/installation",
+                  "es/billing-ui/faq"
+                ]
+              },
+              {
+                "group": "Luxury Clothes Theft",
+                "icon": "shirt",
+                "expanded": true,
+                "root": "es/luxury-clothes-theft/home",
+                "pages": [
+                  "es/luxury-clothes-theft/installation",
+                  "es/luxury-clothes-theft/faq"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API",
+            "icon": "code",
+            "groups": [
+              {
+                "group": "General",
+                "icon": "book",
+                "pages": [
+                  "es/developers/overview"
+                ]
+              },
+              {
+                "group": "Inventory",
+                "icon": "boxes-stacked",
+                "expanded": true,
+                "pages": [
+                  "es/jaksam-inventory/modules",
+                  "es/jaksam-inventory/guides/commands",
+                  {
+                    "group": "Functions",
+                    "icon": "function",
+                    "pages": [
+                      {
+                        "group": "Client",
+                        "root": "es/jaksam-inventory/functions/client/index",
+                        "icon": "laptop",
+                        "pages": [
+                          "es/jaksam-inventory/functions/client/get-total-item-amount",
+                          "es/jaksam-inventory/functions/client/open-inventory",
+                          "es/jaksam-inventory/functions/client/close-inventory",
+                          "es/jaksam-inventory/functions/client/get-inventory",
+                          "es/jaksam-inventory/functions/client/get-item-by-name",
+                          "es/jaksam-inventory/functions/client/get-items-by-name",
+                          "es/jaksam-inventory/functions/client/get-item-from-slot",
+                          "es/jaksam-inventory/functions/client/show-hotbar",
+                          "es/jaksam-inventory/functions/client/set-hotbar-disabled",
+                          "es/jaksam-inventory/functions/client/set-hotkeys-enabled",
+                          "es/jaksam-inventory/functions/client/are-hotkeys-enabled",
+                          "es/jaksam-inventory/functions/client/dequip-weapon",
+                          "es/jaksam-inventory/functions/client/set-weapon-wheel",
+                          "es/jaksam-inventory/functions/client/set-jaksam-weapon-wheel",
+                          "es/jaksam-inventory/functions/client/register-action-button",
+                          "es/jaksam-inventory/functions/client/unregister-action-button",
+                          "es/jaksam-inventory/functions/client/show-action-button",
+                          "es/jaksam-inventory/functions/client/hide-action-button",
+                          "es/jaksam-inventory/functions/client/get-vehicle-inventory-limits",
+                          "es/jaksam-inventory/functions/client/is-inventory-open",
+                          "es/jaksam-inventory/functions/client/set-inventory-disabled",
+                          "es/jaksam-inventory/functions/client/is-inventory-disabled"
+                        ]
+                      },
+                      {
+                        "group": "Shared",
+                        "root": "es/jaksam-inventory/functions/shared/index",
+                        "icon": "circle-share-nodes",
+                        "pages": [
+                          "es/jaksam-inventory/functions/shared/get-static-items-list",
+                          "es/jaksam-inventory/functions/shared/get-static-item",
+                          "es/jaksam-inventory/functions/shared/get-item-label",
+                          "es/jaksam-inventory/functions/shared/get-item-image-path"
+                        ]
+                      },
+                      {
+                        "group": "Server",
+                        "root": "es/jaksam-inventory/functions/server/index",
+                        "icon": "server",
+                        "pages": [
+                          "es/jaksam-inventory/functions/server/add-item",
+                          "es/jaksam-inventory/functions/server/add-item-to-trunk",
+                          "es/jaksam-inventory/functions/server/add-item-to-glovebox",
+                          "es/jaksam-inventory/functions/server/remove-item-from-trunk",
+                          "es/jaksam-inventory/functions/server/remove-item-from-glovebox",
+                          "es/jaksam-inventory/functions/server/get-inventory-id-from-plate",
+                          "es/jaksam-inventory/functions/server/can-carry-item",
+                          "es/jaksam-inventory/functions/server/can-swap-item",
+                          "es/jaksam-inventory/functions/server/clear-inventory",
+                          "es/jaksam-inventory/functions/server/create-inventory",
+                          "es/jaksam-inventory/functions/server/force-open-inventory",
+                          "es/jaksam-inventory/functions/server/get-inventory",
+                          "es/jaksam-inventory/functions/server/get-item-from-slot",
+                          "es/jaksam-inventory/functions/server/get-item-by-name",
+                          "es/jaksam-inventory/functions/server/get-items-by-name",
+                          "es/jaksam-inventory/functions/server/get-item-label",
+                          "es/jaksam-inventory/functions/server/get-total-item-amount",
+                          "es/jaksam-inventory/functions/server/has-item",
+                          "es/jaksam-inventory/functions/server/register-usable-item",
+                          "es/jaksam-inventory/functions/server/register-stash",
+                          "es/jaksam-inventory/functions/server/register-item",
+                          "es/jaksam-inventory/functions/server/remove-item",
+                          "es/jaksam-inventory/functions/server/save-dirty-inventories",
+                          "es/jaksam-inventory/functions/server/save-dirty-inventory",
+                          "es/jaksam-inventory/functions/server/set-inventory-max-weight",
+                          "es/jaksam-inventory/functions/server/set-item-metadata-in-slot",
+                          "es/jaksam-inventory/functions/server/set-durability"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Events",
+                    "icon": "alarm-clock",
+                    "pages": [
+                      {
+                        "group": "Server",
+                        "root": "es/jaksam-inventory/events/server/index",
+                        "icon": "server",
+                        "pages": [
+                          "es/jaksam-inventory/events/server/on-inventory-item-added",
+                          "es/jaksam-inventory/events/server/on-inventory-item-removed",
+                          "es/jaksam-inventory/events/server/on-inventory-item-transferred"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Hooks",
+                    "icon": "webhook",
+                    "root": "es/jaksam-inventory/hooks/index",
+                    "pages": [
+                      "es/jaksam-inventory/hooks/on-item-added",
+                      "es/jaksam-inventory/hooks/on-item-removed",
+                      "es/jaksam-inventory/hooks/on-item-transferred",
+                      "es/jaksam-inventory/hooks/on-pre-use-item",
+                      "es/jaksam-inventory/hooks/on-post-use-item",
+                      "es/jaksam-inventory/hooks/on-inventory-created"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Jobs Creator",
+                "icon": "briefcase",
+                "expanded": true,
+                "pages": [
+                  "es/jobs-creator/modules",
+                  "es/jobs-creator/replacing-default-scripts-names",
+                  "es/jobs-creator/replacing-default-events-names",
+                  "es/jobs-creator/qbcore-jobs-injection",
+                  {
+                    "group": "Client",
+                    "root": "es/jobs-creator/client/index",
+                    "pages": [
+                      {
+                        "group": "Notifications",
+                        "root": "es/jobs-creator/client/notifications/index",
+                        "pages": [
+                          "es/jobs-creator/client/notifications/replace-default-notifications",
+                          "es/jobs-creator/client/notifications/replace-help-notification-textui"
+                        ],
+                        "icon": "bell"
+                      },
+                      {
+                        "group": "Actions",
+                        "root": "es/jobs-creator/client/actions/index",
+                        "pages": [
+                          "es/jobs-creator/client/actions/using-the-actions-in-a-radial-external-menu",
+                          "es/jobs-creator/client/actions/replace-default-search-action",
+                          "es/jobs-creator/client/actions/get-player-allowed-actions",
+                          "es/jobs-creator/client/actions/open-actions-menu",
+                          "es/jobs-creator/client/actions/integrate-external-impound-script",
+                          "es/jobs-creator/client/actions/vehicle-repaired",
+                          "es/jobs-creator/client/actions/get-if-local-player-is-handcuffed"
+                        ],
+                        "icon": "hand-pointer"
+                      },
+                      {
+                        "group": "Duty",
+                        "root": "es/jobs-creator/client/duty/index",
+                        "pages": [
+                          "es/jobs-creator/client/duty/duty-status-toggled",
+                          "es/jobs-creator/client/duty/toggle-current-duty-status"
+                        ],
+                        "icon": "briefcase-arrow-right"
+                      },
+                      {
+                        "group": "Buyable Vehicles",
+                        "root": "es/jobs-creator/client/buyable-vehicles/index",
+                        "pages": [
+                          "es/jobs-creator/client/buyable-vehicles/vehicle-spawned",
+                          "es/jobs-creator/client/buyable-vehicles/vehicle-parked"
+                        ],
+                        "icon": "car"
+                      },
+                      {
+                        "group": "Garage Owned",
+                        "root": "es/jobs-creator/client/garage-owned/index",
+                        "pages": [
+                          "es/jobs-creator/client/garage-owned/vehicle-spawned",
+                          "es/jobs-creator/client/garage-owned/vehicle-parked"
+                        ],
+                        "icon": "warehouse-full"
+                      },
+                      {
+                        "group": "Temporary Garage",
+                        "root": "es/jobs-creator/client/temporary-garage/index",
+                        "pages": [
+                          "es/jobs-creator/client/temporary-garage/vehicle-spawned",
+                          "es/jobs-creator/client/temporary-garage/vehicle-parked"
+                        ],
+                        "icon": "clock"
+                      },
+                      "es/jobs-creator/client/replace-stash-safe-armory",
+                      "es/jobs-creator/client/replace-default-billing",
+                      "es/jobs-creator/client/progress-bar"
+                    ],
+                    "icon": "laptop"
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/jobs-creator/server/index",
+                    "pages": [
+                      {
+                        "group": "Armory",
+                        "root": "es/jobs-creator/server/armory/index",
+                        "pages": [
+                          "es/jobs-creator/server/armory/add-weapon-to-armory",
+                          "es/jobs-creator/server/armory/remove-weapon-from-armory",
+                          "es/jobs-creator/server/armory/get-player-armory-weapons",
+                          "es/jobs-creator/server/armory/get-all-armory-weapons"
+                        ],
+                        "icon": "gun"
+                      },
+                      {
+                        "group": "Boss",
+                        "root": "es/jobs-creator/server/boss/index",
+                        "pages": [
+                          "es/jobs-creator/server/boss/add-society-account-money",
+                          "es/jobs-creator/server/boss/remove-society-account-money",
+                          "es/jobs-creator/server/boss/get-job-account-money",
+                          "es/jobs-creator/server/boss/on-player-fired",
+                          "es/jobs-creator/server/boss/on-player-hired"
+                        ],
+                        "icon": "user-crown"
+                      },
+                      {
+                        "group": "Buyable Vehicles",
+                        "root": "es/jobs-creator/server/buyable-vehicles/index",
+                        "pages": [
+                          "es/jobs-creator/server/buyable-vehicles/get-if-player-is-owner-of-vehicle-plate",
+                          "es/jobs-creator/server/buyable-vehicles/get-all-vehicles-of-player",
+                          "es/jobs-creator/server/buyable-vehicles/on-vehicle-bought",
+                          "es/jobs-creator/server/buyable-vehicles/get-player-vehicles-in-marker-id"
+                        ],
+                        "icon": "car"
+                      },
+                      {
+                        "group": "Crafting Table",
+                        "root": "es/jobs-creator/server/crafting-table/index",
+                        "pages": [
+                          "es/jobs-creator/server/crafting-table/item-crafted"
+                        ],
+                        "icon": "tools"
+                      },
+                      {
+                        "group": "Duty",
+                        "root": "es/jobs-creator/server/duty/index",
+                        "pages": [
+                          "es/jobs-creator/server/duty/duty-status-changed",
+                          "es/jobs-creator/server/duty/get-if-a-player-is-on-duty"
+                        ],
+                        "icon": "briefcase-clock"
+                      },
+                      {
+                        "group": "Harvest",
+                        "root": "es/jobs-creator/server/harvest/index",
+                        "pages": [
+                          "es/jobs-creator/server/harvest/item-harvested"
+                        ],
+                        "icon": "leaf"
+                      },
+                      {
+                        "group": "Market",
+                        "root": "es/jobs-creator/server/market/index",
+                        "pages": [
+                          "es/jobs-creator/server/market/item-sold"
+                        ],
+                        "icon": "store"
+                      },
+                      {
+                        "group": "Shop",
+                        "root": "es/jobs-creator/server/shop/index",
+                        "pages": [
+                          "es/jobs-creator/server/shop/item-bought"
+                        ],
+                        "icon": "cart-circle-plus"
+                      },
+                      {
+                        "group": "Process",
+                        "icon": "gears",
+                        "root": "es/jobs-creator/server/process/index",
+                        "pages": [
+                          "es/jobs-creator/server/process/item-processed"
+                        ]
+                      },
+                      {
+                        "group": "Search/Steal Action",
+                        "root": "es/jobs-creator/server/search-steal-action/index",
+                        "pages": [
+                          "es/jobs-creator/server/search-steal-action/item-stolen",
+                          "es/jobs-creator/server/search-steal-action/account-stolen",
+                          "es/jobs-creator/server/search-steal-action/weapon-stolen"
+                        ],
+                        "icon": "magnifying-glass"
+                      },
+                      "es/jobs-creator/server/set-handcuffs-state"
+                    ],
+                    "icon": "server"
+                  }
+                ]
+              },
+              {
+                "group": "Drugs Creator",
+                "icon": "pills",
+                "expanded": true,
+                "pages": [
+                  "es/drugs-creator/modules",
+                  {
+                    "group": "Client",
+                    "root": "es/drugs-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/drugs-creator/client/replace-default-notifications",
+                      "es/drugs-creator/client/replace-disable-default-progress-bar",
+                      "es/drugs-creator/client/replace-default-mugshot-notifications",
+                      "es/drugs-creator/client/replace-default-help-notifications",
+                      "es/drugs-creator/client/replace-default-police-alert",
+                      "es/drugs-creator/client/manually-start-drugs-effects",
+                      {
+                        "group": "NPC Selling",
+                        "root": "es/drugs-creator/client/npc-selling/index",
+                        "icon": "person-carry",
+                        "pages": [
+                          "es/drugs-creator/client/npc-selling/disable-default-selling-method-for-npcs",
+                          "es/drugs-creator/client/npc-selling/add-ped-to-selling-blacklist",
+                          "es/drugs-creator/client/npc-selling/remove-ped-from-selling-blacklist",
+                          "es/drugs-creator/client/npc-selling/manually-sell-to-a-npc",
+                          "es/drugs-creator/client/npc-selling/npc-accepted-drug"
+                        ]
+                      },
+                      {
+                        "group": "Territories",
+                        "root": "es/drugs-creator/client/territories/index",
+                        "icon": "map-location",
+                        "pages": [
+                          "es/drugs-creator/client/territories/get-current-territory",
+                          "es/drugs-creator/client/territories/get-territory-owners"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/drugs-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      {
+                        "group": "Fields",
+                        "root": "es/drugs-creator/server/fields/index",
+                        "icon": "wheat",
+                        "pages": [
+                          "es/drugs-creator/server/fields/item-harvested"
+                        ]
+                      },
+                      {
+                        "group": "Harvestable Items",
+                        "root": "es/drugs-creator/server/harvestable-items/index",
+                        "icon": "plate-wheat",
+                        "pages": [
+                          "es/drugs-creator/server/harvestable-items/item-harvested"
+                        ]
+                      },
+                      {
+                        "group": "Laboratories",
+                        "root": "es/drugs-creator/server/laboratories/index",
+                        "icon": "flask-vial",
+                        "pages": [
+                          "es/drugs-creator/server/laboratories/successful-craft"
+                        ]
+                      },
+                      {
+                        "group": "Sellings",
+                        "root": "es/drugs-creator/server/sellings/index",
+                        "icon": "hands-usd",
+                        "pages": [
+                          "es/drugs-creator/server/sellings/sold-to-pusher",
+                          "es/drugs-creator/server/sellings/sold-in-boat",
+                          "es/drugs-creator/server/sellings/sold-in-plane",
+                          "es/drugs-creator/server/sellings/sold-to-npc",
+                          "es/drugs-creator/server/sellings/sold-to-narcos",
+                          "es/drugs-creator/server/sellings/sold-by-hired-dealer"
+                        ]
+                      },
+                      {
+                        "group": "Territories",
+                        "root": "es/drugs-creator/server/territories/index",
+                        "icon": "map-location-dot",
+                        "pages": [
+                          "es/drugs-creator/server/territories/ownership-changed",
+                          "es/drugs-creator/server/territories/give-territory-points",
+                          "es/drugs-creator/server/territories/remove-territory-points",
+                          "es/drugs-creator/server/territories/reset-territory-points"
+                        ]
+                      },
+                      {
+                        "group": "Hired Dealers",
+                        "root": "es/drugs-creator/server/hired-dealers/index",
+                        "icon": "person-from-portal",
+                        "pages": []
+                      },
+                      {
+                        "group": "Drug Factories",
+                        "root": "es/drugs-creator/server/drug-factories/index",
+                        "icon": "building-lock",
+                        "pages": []
+                      },
+                      "es/drugs-creator/server/police-alerted",
+                      "es/drugs-creator/server/pocket-crafting-finished"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Doors Creator",
+                "icon": "door-open",
+                "expanded": true,
+                "pages": [
+                  "es/doors-creator/modules",
+                  {
+                    "group": "Client",
+                    "root": "es/doors-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/doors-creator/client/replace-default-notifications",
+                      "es/doors-creator/client/get-closest-door",
+                      "es/doors-creator/client/toggle-icon-display",
+                      "es/doors-creator/client/replace-default-police-alert",
+                      "es/doors-creator/client/get-door-id-from-entity"
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/doors-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/doors-creator/server/refresh-database",
+                      "es/doors-creator/server/police-alerted",
+                      "es/doors-creator/server/get-door-id-data",
+                      "es/doors-creator/server/get-building-id-data",
+                      "es/doors-creator/server/get-all-buildings-list",
+                      "es/doors-creator/server/get-all-doors-list",
+                      "es/doors-creator/server/set-door-id-state-locked-unlocked",
+                      "es/doors-creator/server/lockpicked-door",
+                      "es/doors-creator/server/create-building",
+                      "es/doors-creator/server/create-door",
+                      "es/doors-creator/server/delete-door",
+                      "es/doors-creator/server/update-door"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Missions Creator",
+                "icon": "bullseye",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/missions-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/missions-creator/client/replace-default-police-alert",
+                      "es/missions-creator/client/on-entity-spawn",
+                      "es/missions-creator/client/get-mission-template",
+                      {
+                        "group": "Notifications",
+                        "root": "es/missions-creator/client/notifications/index",
+                        "icon": "bell-on",
+                        "pages": [
+                          "es/missions-creator/client/notifications/replace-default-notifications",
+                          "es/missions-creator/client/notifications/replace-default-help-notifications",
+                          "es/missions-creator/client/notifications/replace-default-mugshot-notifications"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/missions-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/missions-creator/server/police-alerted",
+                      "es/missions-creator/server/on-mission-start",
+                      "es/missions-creator/server/on-mission-failed",
+                      "es/missions-creator/server/on-mission-completed",
+                      "es/missions-creator/server/start-mission",
+                      "es/missions-creator/server/get-mission-template"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Blips Creator",
+                "icon": "location-dot",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/blips-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/blips-creator/client/open-menu-manually"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Farming Creator",
+                "icon": "tractor",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/farming-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/farming-creator/client/replace-default-notifications",
+                      "es/farming-creator/client/progress-bar",
+                      "es/farming-creator/client/replace-default-help-notifications",
+                      "es/farming-creator/client/replace-default-police-alert"
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/farming-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/farming-creator/server/police-alerted",
+                      "es/farming-creator/server/item-farmed"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Shops Creator",
+                "icon": "cart-shopping",
+                "expanded": true,
+                "pages": [
+                  "es/shops-creator/modules",
+                  {
+                    "group": "Client",
+                    "root": "es/shops-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/shops-creator/client/replace-default-police-alert",
+                      "es/shops-creator/client/ui_toggled",
+                      {
+                        "group": "Notifications",
+                        "root": "es/shops-creator/client/notifications/index",
+                        "icon": "bell-on",
+                        "pages": [
+                          "es/shops-creator/client/notifications/replace-default-notifications",
+                          "es/shops-creator/client/notifications/replace-default-help-notifications"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/shops-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/shops-creator/server/police-alerted",
+                      "es/shops-creator/server/shop-bought",
+                      "es/shops-creator/server/shop-sold",
+                      "es/shops-creator/server/get-what-objects-can-be-sold-in-shop-id",
+                      "es/shops-creator/server/get-objects-in-shop-id",
+                      {
+                        "group": "Transactions",
+                        "root": "es/shops-creator/server/transactions/index",
+                        "icon": "money-bill-trend-up",
+                        "pages": [
+                          "es/shops-creator/server/transactions/admin-shop-bought-object",
+                          "es/shops-creator/server/transactions/admin-shop-sold-object",
+                          "es/shops-creator/server/transactions/player-shop-bought-object",
+                          "es/shops-creator/server/transactions/player-shop-sold-object"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Robberies Creator",
+                "icon": "mask",
+                "expanded": true,
+                "pages": [
+                  "es/robberies-creator/modules",
+                  {
+                    "group": "Client",
+                    "root": "es/robberies-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/robberies-creator/client/progress-bar",
+                      "es/robberies-creator/client/replace-default-police-alert",
+                      {
+                        "group": "Notifications",
+                        "root": "es/robberies-creator/client/notifications/index",
+                        "icon": "bell",
+                        "pages": [
+                          "es/robberies-creator/client/notifications/replace-default-notifications",
+                          "es/robberies-creator/client/notifications/replace-default-help-notifications"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/robberies-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/robberies-creator/server/heist-started",
+                      "es/robberies-creator/server/heist-finished",
+                      "es/robberies-creator/server/police-alerted",
+                      "es/robberies-creator/server/step-completed"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Vehicles Keys",
+                "icon": "key",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/vehicles-keys/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/vehicles-keys/client/self-give-current-vehicle-plate",
+                      "es/vehicles-keys/client/self-give-vehicle-plate",
+                      "es/vehicles-keys/client/self-remove-vehicle-plate",
+                      "es/vehicles-keys/client/open-remote-ui-menu",
+                      "es/vehicles-keys/client/open-keys-list",
+                      "es/vehicles-keys/client/toggle-hotwiring",
+                      "es/vehicles-keys/client/get-if-local-player-owns-a-plate",
+                      "es/vehicles-keys/client/get-owned-plates-of-local-player",
+                      "es/vehicles-keys/client/toggle-closest-vehicle-lock",
+                      "es/vehicles-keys/client/switch-vehicle-lock",
+                      "es/vehicles-keys/client/vehicle-locked-unlocked",
+                      "es/vehicles-keys/client/replace-disable-default-progress-bar",
+                      "es/vehicles-keys/client/refresh-self-owned-vehicles",
+                      "es/vehicles-keys/client/replace-default-police-alert",
+                      {
+                        "group": "Notifications",
+                        "root": "es/vehicles-keys/client/notifications/index",
+                        "icon": "bell-on",
+                        "pages": [
+                          "es/vehicles-keys/client/notifications/replace-default-notifications",
+                          "es/vehicles-keys/client/notifications/replace-default-help-notifications"
+                        ]
+                      },
+                      "es/vehicles-keys/client/bypass-start-vehicle-check"
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/vehicles-keys/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/vehicles-keys/server/refresh-player-owned-vehicles",
+                      "es/vehicles-keys/server/get-if-player-id-owns-a-plate",
+                      "es/vehicles-keys/server/vehicle-locked-unlocked",
+                      "es/vehicles-keys/server/player-hotwired-a-vehicle",
+                      "es/vehicles-keys/server/player-lockpicked-a-vehicle",
+                      "es/vehicles-keys/server/give-keys-to-identifier",
+                      "es/vehicles-keys/server/remove-keys-from-identifier",
+                      "es/vehicles-keys/server/give-keys-to-player-id",
+                      "es/vehicles-keys/server/remove-keys-from-player-id",
+                      "es/vehicles-keys/server/vehicle-window-broken",
+                      "es/vehicles-keys/server/get-player-id-keys",
+                      "es/vehicles-keys/server/get-identifier-keys",
+                      "es/vehicles-keys/server/police-alerted",
+                      {
+                        "group": "Alarms",
+                        "root": "es/vehicles-keys/server/alarms/index",
+                        "icon": "bell-exclamation",
+                        "pages": [
+                          "es/vehicles-keys/server/alarms/alarm-activated-player-vehicle",
+                          "es/vehicles-keys/server/alarms/alarm-activated-npc-vehicle"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Dealerships Creator",
+                "icon": "car",
+                "expanded": true,
+                "pages": [
+                  "es/dealerships-creator/modules",
+                  {
+                    "group": "Client",
+                    "root": "es/dealerships-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/dealerships-creator/client/on-test-drive-vehicle-spawn",
+                      {
+                        "group": "Notifications",
+                        "root": "es/dealerships-creator/client/notifications/index",
+                        "icon": "bell-on",
+                        "pages": [
+                          "es/dealerships-creator/client/notifications/replace-default-notifications",
+                          "es/dealerships-creator/client/notifications/replace-default-help-notifications"
+                        ]
+                      },
+                      {
+                        "group": "Showroom",
+                        "root": "es/dealerships-creator/client/showroom/index",
+                        "icon": "car-tilt",
+                        "pages": [
+                          "es/dealerships-creator/client/showroom/on-showroom-enter",
+                          "es/dealerships-creator/client/showroom/on-showroom-exit",
+                          "es/dealerships-creator/client/showroom/get-is-player-in-showroom",
+                          "es/dealerships-creator/client/showroom/get-is-player-doing-test-drive"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/dealerships-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/dealerships-creator/server/on-vehicle-given",
+                      "es/dealerships-creator/server/on-vehicle-resell"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Races Creator",
+                "icon": "flag-checkered",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/races-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/races-creator/client/replace-default-police-alert",
+                      {
+                        "group": "Notifications",
+                        "root": "es/races-creator/client/notifications/index",
+                        "icon": "bell-on",
+                        "pages": [
+                          "es/races-creator/client/notifications/replace-default-notifications",
+                          "es/races-creator/client/notifications/replace-default-help-notifications"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/races-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/races-creator/server/police-alerted"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Trackers Creator",
+                "icon": "satellite-dish",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/trackers-creator/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/trackers-creator/client/replace-default-notifications",
+                      "es/trackers-creator/client/panic-button-pressed",
+                      "es/trackers-creator/client/manually-start-panic-button"
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/trackers-creator/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/trackers-creator/server/panic-button-pressed",
+                      "es/trackers-creator/server/player-lost-signal",
+                      "es/trackers-creator/server/player-set-new-private-frequency"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Easy Allowlist",
+                "icon": "shield-check",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Server",
+                    "root": "es/easy-allowlist/server/index",
+                    "icon": "server",
+                    "pages": [
+                      {
+                        "group": "Allowlist",
+                        "root": "es/easy-allowlist/server/allowlist/index",
+                        "icon": "list-check",
+                        "pages": [
+                          "es/easy-allowlist/server/allowlist/add-identifier-to-allowlist",
+                          "es/easy-allowlist/server/allowlist/remove-identifier-from-allowlist"
+                        ]
+                      },
+                      {
+                        "group": "Queue",
+                        "root": "es/easy-allowlist/server/queue/index",
+                        "icon": "bus-stop",
+                        "pages": [
+                          "es/easy-allowlist/server/queue/set-player-queue-priority",
+                          "es/easy-allowlist/server/queue/set-discord-role-queue-priority",
+                          "es/easy-allowlist/server/queue/set-identifier-queue-priority",
+                          "es/easy-allowlist/server/queue/remove-identifier-queue-priority",
+                          "es/easy-allowlist/server/queue/remove-discord-role-queue-priority",
+                          "es/easy-allowlist/server/queue/get-queue-count",
+                          "es/easy-allowlist/server/queue/get-queue-info"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Billing UI",
+                "icon": "file-invoice-dollar",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/billing-ui/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/billing-ui/client/activate-billing-mode",
+                      "es/billing-ui/client/open-billing-menu",
+                      "es/billing-ui/client/replace-default-notifications",
+                      "es/billing-ui/client/pay-a-bill",
+                      "es/billing-ui/client/send-a-bill",
+                      "es/billing-ui/client/view-invoices"
+                    ]
+                  },
+                  {
+                    "group": "Server",
+                    "root": "es/billing-ui/server/index",
+                    "icon": "server",
+                    "pages": [
+                      "es/billing-ui/server/create-bill",
+                      "es/billing-ui/server/delete-bill",
+                      "es/billing-ui/server/refresh-bill",
+                      "es/billing-ui/server/on-bill-created",
+                      "es/billing-ui/server/on-bill-paid"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Luxury Clothes Theft",
+                "icon": "shirt",
+                "expanded": true,
+                "pages": [
+                  {
+                    "group": "Client",
+                    "root": "es/luxury-clothes-theft/client/index",
+                    "icon": "laptop",
+                    "pages": [
+                      "es/luxury-clothes-theft/client/replace-default-notifications"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "default": false
       }
     ]
   },
