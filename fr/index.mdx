@@ -1,0 +1,112 @@
+---
+title: "Accueil"
+description: "Documentation de tous les scripts de jaksam"
+icon: "house-chimney-blank"
+---
+
+Tu trouveras ici toute la documentation des scripts de jaksam. Certaines pages peuvent nécessiter des connaissances en programmation.
+
+<Tip>
+  Tu installes ou configures un script ? Reste sur cet onglet **Accueil**. Tu intègres des exports, events ou hooks dans ton propre code ? Passe à l'onglet **API** en haut de la page.
+</Tip>
+
+## Produits
+
+<CardGroup cols={3}>
+  <Card title="Jaksam Inventory" icon="boxes-stacked" href="/fr/jaksam-inventory/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Jobs Creator" icon="briefcase" href="/fr/jobs-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Drugs Creator" icon="pills" href="/fr/drugs-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Doors Creator" icon="door-open" href="/fr/doors-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Missions Creator" icon="bullseye" href="/fr/missions-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Blips Creator" icon="location-dot" href="/fr/blips-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Farming Creator" icon="tractor" href="/fr/farming-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Shops Creator" icon="cart-shopping" href="/fr/shops-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Robberies Creator" icon="mask" href="/fr/robberies-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Vehicles Keys" icon="key" href="/fr/vehicles-keys/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Dealerships Creator" icon="car" href="/fr/dealerships-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Races Creator" icon="flag-checkered" href="/fr/races-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Trackers Creator" icon="satellite-dish" href="/fr/trackers-creator/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Easy Allowlist" icon="shield-check" href="/fr/easy-allowlist/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Billing UI" icon="file-invoice-dollar" href="/fr/billing-ui/home">
+    Installation, guides et FAQ.
+  </Card>
+  <Card title="Luxury Clothes Theft" icon="shirt" href="/fr/luxury-clothes-theft/home">
+    Installation, guides et FAQ.
+  </Card>
+</CardGroup>
+
+## Général
+
+<CardGroup cols={2}>
+  <Card title="Comment mettre à jour" icon="download" href="/fr/jaksams-scripts/how-to-update-the-scripts">
+    Apprends à mettre à jour tes scripts vers la dernière version.
+  </Card>
+
+  <Card title="Dépannage" icon="wrench" href="/fr/jaksams-scripts/troubleshooting">
+    Résous les problèmes courants comme les crashs et les erreurs d'items.
+  </Card>
+
+  <Card title="FAQ générale" icon="circle-question" href="/fr/jaksams-scripts/common-faq">
+    Réponses aux questions fréquemment posées.
+  </Card>
+
+  <Card title="Conditions Nexus" icon="file-contract" href="/fr/jaksams-scripts/nexus-terms">
+    Conditions d'utilisation des scripts distribués via Nexus.
+  </Card>
+</CardGroup>
+
+## Comment utiliser cette documentation
+
+La plupart des scripts ont un dossier nommé **integrations**, où tu peux ajouter ton code d'intégration en bas des fichiers. La plupart du temps, tu n'auras donc besoin d'ajouter ton code que dans ces fichiers, pas dans les autres scripts.
+
+<Tip>
+  Lis attentivement les commentaires, ils expliquent tout ce dont tu as besoin juste au-dessus des lignes de code.
+</Tip>
+
+### Fichiers d'intégration
+
+<CardGroup cols={3}>
+  <Card title="cl_integrations.lua" icon="laptop">
+    Code pour les scripts **côté client**, par exemple pour remplacer les notifications ou la barre de progression. C'est généralement là que tu insères le code de la catégorie `Client` de la documentation.
+  </Card>
+
+  <Card title="sh_integrations.lua" icon="arrows-left-right">
+    Code qui s'exécute **à la fois côté client et côté serveur**, généralement des noms de scripts externes, que tu peux modifier si ton serveur utilise un nom différent de celui par défaut.
+  </Card>
+
+  <Card title="sv_integrations.lua" icon="server">
+    Code pour les scripts **côté serveur**. C'est généralement là que tu insères le code de la catégorie `Server` de la documentation.
+  </Card>
+</CardGroup>
+
+<Info>
+  Si tu cherches une option que tu ne trouves pas dans la config/les paramètres normaux, elle se trouve probablement dans les fichiers d'intégration.
+</Info>
