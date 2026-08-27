@@ -20,7 +20,7 @@ Dies ist die offizielle Dokumentation von **Races Creator**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Tschechisch, Französisch, Deutsch, Ungarisch, Italienisch, Polnisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

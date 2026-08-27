@@ -24,7 +24,7 @@ This is the official **Drugs Creator** documentation.
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, German, Spanish, French, Italian, Dutch, Portuguese, Czech, Hungarian, Chinese, Japanese, Persian
+    English, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Lithuanian, Persian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

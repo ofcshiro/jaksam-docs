@@ -24,7 +24,7 @@ This is the official **Missions Creator** documentation.
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, French, German, Spanish
+    English, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

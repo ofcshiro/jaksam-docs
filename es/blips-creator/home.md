@@ -11,7 +11,7 @@ Esta es la documentación oficial de **Blips Creator**.
     Hilo oficial de lanzamiento en el foro de FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Tienda Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Compra o consulta el script en Tebex.
   </Card>
 </CardGroup>

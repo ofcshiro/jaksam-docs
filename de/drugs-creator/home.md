@@ -24,7 +24,7 @@ Dies ist die offizielle Dokumentation von **Drugs Creator**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Deutsch, Spanisch, Französisch, Italienisch, Niederländisch, Portugiesisch, Tschechisch, Ungarisch, Chinesisch, Japanisch, Persisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Japanisch, Litauisch, Persisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

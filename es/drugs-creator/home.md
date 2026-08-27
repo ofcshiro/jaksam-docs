@@ -11,7 +11,7 @@ Esta es la documentación oficial de **Drugs Creator**.
     Hilo oficial de lanzamiento en el foro de FiveM.
   </Card>
 
-  <Card title="Tienda en Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Tienda Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Compra o consulta el script en Tebex.
   </Card>
 
@@ -23,8 +23,8 @@ Esta es la documentación oficial de **Drugs Creator**.
     Mira el tráiler cinemático en YouTube.
   </Card>
 
-  <Card title="Idiomas soportados" icon="language">
-    Inglés, alemán, español, francés, italiano, neerlandés, portugués, checo, húngaro, chino, japonés, persa
+  <Card title="Idiomas compatibles" icon="language">
+    Inglés, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Japonés, Lituano, Persa, Polaco, Portugués, Español
   </Card>
 </CardGroup>
 

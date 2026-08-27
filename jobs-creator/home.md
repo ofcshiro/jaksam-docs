@@ -20,7 +20,7 @@ This is the official **Jobs Creator** documentation.
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, Bosnian, Czech, Danish, French, German, Greek, Hungarian, Italian, Polish, Portuguese, Spanish, Slovak
+    English, Bosnian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Slovak, Spanish
   </Card>
 </CardGroup>
 

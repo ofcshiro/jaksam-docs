@@ -7,7 +7,7 @@ icon: "key"
 Ceci est la documentation officielle de **Vehicles Keys**.
 
 <CardGroup cols={2}>
-  <Card title="Post sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/esx-qbcore-vehicles-keys-vehicles-lock-remote-control-ui-and-much-more/4857274">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/esx-qbcore-vehicles-keys-vehicles-lock-remote-control-ui-and-much-more/4857274">
     Thread officiel de sortie sur le forum FiveM.
   </Card>
 
@@ -16,7 +16,7 @@ Ceci est la documentation officielle de **Vehicles Keys**.
   </Card>
 
   <Card title="Langues prises en charge" icon="language">
-    Anglais, chinois, tchèque, néerlandais, français, allemand, italien, polonais, portugais, espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

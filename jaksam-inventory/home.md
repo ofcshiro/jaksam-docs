@@ -58,7 +58,7 @@ Looking for the Jaksam Inventory shop or other products?
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, German
+    English, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

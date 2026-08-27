@@ -20,7 +20,7 @@ Dies ist die offizielle Dokumentation von **Robberies Creator**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Tschechisch, Französisch, Deutsch, Ungarisch, Italienisch, Polnisch, Portugiesisch, Spanisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

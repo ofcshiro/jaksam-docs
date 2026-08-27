@@ -20,7 +20,7 @@ Dies ist die offizielle Dokumentation von **Shops Creator**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Französisch, Deutsch, Italienisch, Niederländisch, Polnisch, Spanisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

@@ -16,7 +16,7 @@ Dies ist die offizielle Dokumentation von **Trackers Creator**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Tschechisch, Französisch, Deutsch, Ungarisch, Italienisch, Polnisch, Spanisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

@@ -58,7 +58,7 @@ Tu cherches la boutique Jaksam Inventory ou d'autres produits ?
   </Card>
 
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Allemand, Espagnol, Français
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

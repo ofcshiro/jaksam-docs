@@ -7,16 +7,16 @@ icon: "file-invoice-dollar"
 Voici la documentation officielle de **Billing UI**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/billing-ui-esx-bill-players-by-clicking-on-their-character/2715913/23">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/billing-ui-esx-bill-players-by-clicking-on-their-character/2715913/23">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Achète ou consulte le script sur Tebex.
   </Card>
 
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Tchèque, Néerlandais, Allemand, Hongrois, Portugais (Brésil), Espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

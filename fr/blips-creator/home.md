@@ -7,11 +7,11 @@ icon: "location-dot"
 Voici la documentation officielle de **Blips Creator**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/blips-creator-standalone-easily-create-blips-from-in-game-menu/2845986">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/blips-creator-standalone-easily-create-blips-from-in-game-menu/2845986">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Achète ou consulte le script sur Tebex.
   </Card>
 </CardGroup>

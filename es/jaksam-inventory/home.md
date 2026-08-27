@@ -57,8 +57,8 @@ Usa las opciones de abajo para encontrar rápidamente la documentación que nece
     Mira el tráiler cinemático en YouTube.
   </Card>
 
-  <Card title="Idiomas Compatibles" icon="language">
-    Inglés, Alemán, Español
+  <Card title="Idiomas compatibles" icon="language">
+    Inglés, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Lituano, Polaco, Portugués, Español
   </Card>
 </CardGroup>
 
@@ -77,7 +77,7 @@ Usa las opciones de abajo para encontrar rápidamente la documentación que nece
     Personaliza el tema, los metadatos, el crafting y más.
   </Card>
 
-  <Card title="Referencia para Desarrolladores" icon="code" href="/es/jaksam-inventory/functions/client">
+  <Card title="Referencia para desarrolladores" icon="code" href="/es/jaksam-inventory/functions/client">
     Exports, events, hooks y referencia de integración para desarrolladores.
   </Card>
 </CardGroup>

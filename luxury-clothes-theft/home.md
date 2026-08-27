@@ -16,7 +16,7 @@ This is the official **Luxury Clothes Theft** documentation.
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, Czech, French, German, Hungarian, Italian
+    English, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

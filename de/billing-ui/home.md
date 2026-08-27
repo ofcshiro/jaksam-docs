@@ -16,7 +16,7 @@ Dies ist die offizielle Dokumentation von **Billing UI**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Tschechisch, Niederländisch, Deutsch, Ungarisch, Portugiesisch (Brasilien), Spanisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

@@ -11,12 +11,12 @@ Esta es la documentación oficial de **Vehicles Keys**.
     Hilo oficial de lanzamiento en el foro de FiveM.
   </Card>
 
-  <Card title="Tienda en Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Tienda Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Compra o consulta el script en Tebex.
   </Card>
 
-  <Card title="Idiomas soportados" icon="language">
-    Inglés, chino, checo, neerlandés, francés, alemán, italiano, polaco, portugués, español
+  <Card title="Idiomas compatibles" icon="language">
+    Inglés, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Lituano, Polaco, Portugués, Español
   </Card>
 </CardGroup>
 
@@ -31,7 +31,7 @@ Esta es la documentación oficial de **Vehicles Keys**.
     Dar llaves con el comando de coche, arreglar el puenteo y otras guías.
   </Card>
 
-  <Card title="Preguntas frecuentes" icon="circle-question" href="/es/vehicles-keys/faq">
+  <Card title="FAQ" icon="circle-question" href="/es/vehicles-keys/faq">
     Preguntas frecuentes.
   </Card>
 

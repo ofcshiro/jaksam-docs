@@ -7,11 +7,11 @@ icon: "bullseye"
 Voici la documentation officielle de **Missions Creator**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/missions-creator-easily-create-missions/5230015">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/missions-creator-easily-create-missions/5230015">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://fivem.jaksam-scripts.com/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://fivem.jaksam-scripts.com/">
     Achète ou consulte le script sur Tebex.
   </Card>
 
@@ -24,7 +24,7 @@ Voici la documentation officielle de **Missions Creator**.
   </Card>
 
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Français, Allemand, Espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

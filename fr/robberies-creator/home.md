@@ -7,11 +7,11 @@ icon: "mask"
 Voici la documentation officielle de **Robberies Creator**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/robberies-creator-esx-qbcore-in-game-heists-creation-menu-without-server-restart/4893285">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/robberies-creator-esx-qbcore-in-game-heists-creation-menu-without-server-restart/4893285">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Achète ou consulte le script sur Tebex.
   </Card>
 
@@ -20,7 +20,7 @@ Voici la documentation officielle de **Robberies Creator**.
   </Card>
 
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Tchèque, Français, Allemand, Hongrois, Italien, Polonais, Portugais, Espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

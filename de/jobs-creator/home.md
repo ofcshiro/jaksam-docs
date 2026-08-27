@@ -20,7 +20,7 @@ Dies ist die offizielle Dokumentation von **Jobs Creator**.
   </Card>
 
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Bosnisch, Tschechisch, Dänisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Polnisch, Portugiesisch, Spanisch, Slowakisch
+    Englisch, Bosnisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Slowakisch, Spanisch
   </Card>
 </CardGroup>
 
