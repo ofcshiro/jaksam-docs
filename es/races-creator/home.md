@@ -15,6 +15,10 @@ Esta es la documentación oficial de **Races Creator**.
     Compra o consulta el script en Tebex.
   </Card>
 
+  <Card title="Demostración" icon="play" href="https://youtu.be/bDprl-eAp60">
+    Mira la demostración completa en YouTube.
+  </Card>
+
   <Card title="Idiomas compatibles" icon="language">
     Inglés, checo, francés, alemán, húngaro, italiano, polaco
   </Card>

@@ -15,6 +15,14 @@ Esta es la documentación oficial de **Drugs Creator**.
     Compra o consulta el script en Tebex.
   </Card>
 
+  <Card title="Demostración" icon="play" href="https://youtu.be/dbT-hRpVWaY">
+    Mira la demostración completa en YouTube.
+  </Card>
+
+  <Card title="Cinemática" icon="film" href="https://youtu.be/aTo-NxrkLIU">
+    Mira el tráiler cinemático en YouTube.
+  </Card>
+
   <Card title="Idiomas soportados" icon="language">
     Inglés, alemán, español, francés, italiano, neerlandés, portugués, checo, húngaro, chino, japonés, persa
   </Card>

@@ -4,7 +4,7 @@ description: "Hook, der nach der Nutzung eines Items ausgelöst wird, nur zur Be
 icon: "circle-check"
 ---
 
-Wird NACH der Nutzung eines Items ausgelöst (nach Verbrauch, Animationen, Verzögerungen und allen Callbacks). Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#register-a-hook) unter dem Event-Namen `onPostUseItem`.
+Wird NACH der Nutzung eines Items ausgelöst (nach Verbrauch, Animationen, Verzögerungen und allen Callbacks). Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#einen-hook-registrieren) unter dem Event-Namen `onPostUseItem`.
 
 **Ausführungsreihenfolge:** ganz am Ende des Item-Nutzungsprozesses, nach `oxServerExport 'usedItem'`.
 

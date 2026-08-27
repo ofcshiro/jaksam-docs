@@ -23,19 +23,19 @@ Usa las opciones de abajo para encontrar rápidamente la documentación que nece
   <Tab title="ESX">
     Documentación específica para servidores **ESX**.
 
-    - [Instalación de ESX](/es/jaksam-inventory/installation#esx-1107)
+    - [Instalación de ESX](/es/jaksam-inventory/installation)
     - [Compatibilidad con ESX](/es/jaksam-inventory/installation#compatibilidad-con-versiones-anteriores)
   </Tab>
   <Tab title="QBCore">
     Documentación específica para servidores **QBCore**.
 
-    - [Instalación de QBCore](/es/jaksam-inventory/installation#qbcore)
+    - [Instalación de QBCore](/es/jaksam-inventory/installation)
     - [Compatibilidad con QB Inventory](/es/jaksam-inventory/installation#compatibilidad-con-versiones-anteriores)
   </Tab>
   <Tab title="QBX">
     Documentación específica para servidores **QBX**.
 
-    - [Instalación de QBX](/es/jaksam-inventory/installation#qbx)
+    - [Instalación de QBX](/es/jaksam-inventory/installation)
     - [Compatibilidad](/es/jaksam-inventory/installation#compatibilidad-con-versiones-anteriores)
   </Tab>
 </Tabs>
@@ -51,6 +51,10 @@ Usa las opciones de abajo para encontrar rápidamente la documentación que nece
 
   <Card title="Jaksam Inventory" icon="boxes-stacked" href="https://fivem.jaksam-scripts.com/package/7091876">
     Descubre más sobre Jaksam Inventory y sus funciones.
+  </Card>
+
+  <Card title="Cinemática" icon="film" href="https://youtu.be/5SxnBV253jo">
+    Mira el tráiler cinemático en YouTube.
   </Card>
 
   <Card title="Idiomas Compatibles" icon="language">
@@ -69,7 +73,11 @@ Usa las opciones de abajo para encontrar rápidamente la documentación que nece
     Haz que tus scripts existentes funcionen con Jaksam Inventory.
   </Card>
 
-  <Card title="Referencia para Desarrolladores" icon="code" href="/jaksam-inventory/functions/client">
+  <Card title="Guías" icon="hire-a-helper" href="/es/jaksam-inventory/guides/customize-theme">
+    Personaliza el tema, los metadatos, el crafting y más.
+  </Card>
+
+  <Card title="Referencia para Desarrolladores" icon="code" href="/es/jaksam-inventory/functions/client">
     Exports, events, hooks y referencia de integración para desarrolladores.
   </Card>
 </CardGroup>
@@ -79,15 +87,15 @@ Usa las opciones de abajo para encontrar rápidamente la documentación que nece
 Jaksam Inventory es compatible con varios de los frameworks más populares de FiveM.
 
 <CardGroup cols={4}>
-  <Card title="ESX" icon="code" href="/es/jaksam-inventory/installation#esx-1107">
+  <Card title="ESX" icon="code" href="/es/jaksam-inventory/installation">
     Instalación y configuración para ESX.
   </Card>
 
-  <Card title="QBCore" icon="code" href="/es/jaksam-inventory/installation#qbcore">
+  <Card title="QBCore" icon="code" href="/es/jaksam-inventory/installation">
     Instalación y configuración para QBCore.
   </Card>
 
-  <Card title="QBX" icon="code" href="/es/jaksam-inventory/installation#qbx">
+  <Card title="QBX" icon="code" href="/es/jaksam-inventory/installation">
     Instalación y configuración para QBX.
   </Card>
 

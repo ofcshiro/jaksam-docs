@@ -15,6 +15,10 @@ Dies ist die offizielle Dokumentation von **Races Creator**.
     Kaufe oder sieh dir das Script auf Tebex an.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/bDprl-eAp60">
+    Sieh dir den kompletten Showcase auf YouTube an.
+  </Card>
+
   <Card title="Unterstützte Sprachen" icon="language">
     Englisch, Tschechisch, Französisch, Deutsch, Ungarisch, Italienisch, Polnisch
   </Card>

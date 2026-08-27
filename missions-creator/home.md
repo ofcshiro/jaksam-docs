@@ -15,6 +15,14 @@ This is the official **Missions Creator** documentation.
     Purchase or view the script on Tebex.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/wIv3FLqki_U">
+    Watch the full feature showcase on YouTube.
+  </Card>
+
+  <Card title="Cinematic" icon="film" href="https://youtu.be/ZG274mjx21Q">
+    Watch the cinematic trailer on YouTube.
+  </Card>
+
   <Card title="Supported Languages" icon="language">
     English, French, German, Spanish
   </Card>

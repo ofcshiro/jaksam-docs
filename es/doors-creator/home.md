@@ -15,6 +15,10 @@ Esta es la documentación oficial de **Doors Creator**.
     Compra o consulta el script en Tebex.
   </Card>
 
+  <Card title="Demostración" icon="play" href="https://youtu.be/lvhJ7QjT0mY">
+    Mira la demostración completa en YouTube.
+  </Card>
+
   <Card title="Idiomas soportados" icon="language">
     Inglés, chino, checo, danés, neerlandés, francés, alemán, griego, húngaro, italiano, lituano, polaco, portugués, español
   </Card>

@@ -15,6 +15,10 @@ Voici la documentation officielle de **Shops Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/iASxM3jw1CI">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
     Anglais, Français, Allemand, Italien, Néerlandais, Polonais, Espagnol
   </Card>

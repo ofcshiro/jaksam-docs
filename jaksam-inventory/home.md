@@ -23,19 +23,19 @@ Use the options below to quickly find the documentation you need.
   <Tab title="ESX">
     Documentation specifically for **ESX** servers.
 
-    - [ESX Installation](/jaksam-inventory/installation#esx-1107)
+    - [ESX Installation](/jaksam-inventory/installation)
     - [ESX Compatibility](/jaksam-inventory/installation#backwards-compatibility)
   </Tab>
   <Tab title="QBCore">
     Documentation specifically for **QBCore** servers.
 
-    - [QBCore Installation](/jaksam-inventory/installation#qbcore)
+    - [QBCore Installation](/jaksam-inventory/installation)
     - [QB Inventory Compatibility](/jaksam-inventory/installation#backwards-compatibility)
   </Tab>
   <Tab title="QBX">
     Documentation specifically for **QBX** servers.
 
-    - [QBX Installation](/jaksam-inventory/installation#qbx)
+    - [QBX Installation](/jaksam-inventory/installation)
     - [Compatibility](/jaksam-inventory/installation#backwards-compatibility)
   </Tab>
 </Tabs>
@@ -51,6 +51,10 @@ Looking for the Jaksam Inventory shop or other products?
 
   <Card title="Jaksam Inventory" icon="boxes-stacked" href="https://fivem.jaksam-scripts.com/package/7091876">
     Learn more about Jaksam Inventory and its features.
+  </Card>
+
+  <Card title="Cinematic" icon="film" href="https://youtu.be/5SxnBV253jo">
+    Watch the cinematic trailer on YouTube.
   </Card>
 
   <Card title="Supported Languages" icon="language">
@@ -69,6 +73,10 @@ Looking for the Jaksam Inventory shop or other products?
     Make your existing scripts work with Jaksam Inventory.
   </Card>
 
+  <Card title="Guides" icon="hire-a-helper" href="/jaksam-inventory/guides/customize-theme">
+    Customize the theme, metadata, crafting, and more.
+  </Card>
+
   <Card title="Developer Reference" icon="code" href="/jaksam-inventory/functions/client">
     Exports, events, hooks, and integration reference for developers.
   </Card>
@@ -79,15 +87,15 @@ Looking for the Jaksam Inventory shop or other products?
 Jaksam Inventory supports multiple popular FiveM frameworks.
 
 <CardGroup cols={4}>
-  <Card title="ESX" icon="code" href="/jaksam-inventory/installation#esx-1107">
+  <Card title="ESX" icon="code" href="/jaksam-inventory/installation">
     Installation and configuration for ESX.
   </Card>
 
-  <Card title="QBCore" icon="code" href="/jaksam-inventory/installation#qbcore">
+  <Card title="QBCore" icon="code" href="/jaksam-inventory/installation">
     Installation and configuration for QBCore.
   </Card>
 
-  <Card title="QBX" icon="code" href="/jaksam-inventory/installation#qbx">
+  <Card title="QBX" icon="code" href="/jaksam-inventory/installation">
     Installation and configuration for QBX.
   </Card>
 

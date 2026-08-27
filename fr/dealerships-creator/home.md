@@ -15,6 +15,10 @@ Voici la documentation officielle de **Dealerships Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/Ee1acHJInC0">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
     Anglais, Français, Allemand, Espagnol
   </Card>

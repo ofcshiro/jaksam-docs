@@ -15,6 +15,10 @@ Voici la documentation officielle de **Robberies Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/dyA8zHzLB5A">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
     Anglais, Tchèque, Français, Allemand, Hongrois, Italien, Polonais, Portugais, Espagnol
   </Card>

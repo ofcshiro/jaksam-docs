@@ -15,6 +15,14 @@ Voici la documentation officielle de **Missions Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/wIv3FLqki_U">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
+  <Card title="Cinématique" icon="film" href="https://youtu.be/ZG274mjx21Q">
+    Regarde le trailer cinématique sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
     Anglais, Français, Allemand, Espagnol
   </Card>

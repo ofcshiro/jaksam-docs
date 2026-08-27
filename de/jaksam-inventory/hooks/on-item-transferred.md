@@ -4,7 +4,7 @@ description: "Hook, der ausgelöst wird, wenn ein Item zwischen Inventaren über
 icon: "right-left"
 ---
 
-Wird ausgelöst, wenn ein Item zwischen Inventaren übertragen wird (inklusive Bewegungen innerhalb desselben Inventars, z.B. Ziehen innerhalb des gleichen Inventars). Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#register-a-hook) unter dem Event-Namen `onItemTransferred`.
+Wird ausgelöst, wenn ein Item zwischen Inventaren übertragen wird (inklusive Bewegungen innerhalb desselben Inventars, z.B. Ziehen innerhalb des gleichen Inventars). Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#einen-hook-registrieren) unter dem Event-Namen `onItemTransferred`.
 
 ### Payload
 

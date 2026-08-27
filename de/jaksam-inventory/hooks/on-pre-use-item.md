@@ -4,7 +4,7 @@ description: "Hook, der vor der Nutzung eines Items ausgelöst wird, kann die Nu
 icon: "hand"
 ---
 
-Wird VOR der Nutzung eines Items ausgelöst (vor Verbrauch, Animationen und Verzögerungen). Dieser Hook kann die Item-Nutzung abbrechen. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#register-a-hook) unter dem Event-Namen `onPreUseItem`.
+Wird VOR der Nutzung eines Items ausgelöst (vor Verbrauch, Animationen und Verzögerungen). Dieser Hook kann die Item-Nutzung abbrechen. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#einen-hook-registrieren) unter dem Event-Namen `onPreUseItem`.
 
 **Ausführungsreihenfolge:** nach `STATIC_ITEM.canUse` und `oxServerExport 'usingItem'`, vor dem Verbrauch.
 

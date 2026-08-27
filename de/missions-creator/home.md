@@ -15,6 +15,14 @@ Dies ist die offizielle Dokumentation von **Missions Creator**.
     Kaufe oder sieh dir das Script auf Tebex an.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/wIv3FLqki_U">
+    Sieh dir den kompletten Showcase auf YouTube an.
+  </Card>
+
+  <Card title="Cinematic" icon="film" href="https://youtu.be/ZG274mjx21Q">
+    Sieh dir den Cinematic-Trailer auf YouTube an.
+  </Card>
+
   <Card title="Unterstützte Sprachen" icon="language">
     Englisch, Französisch, Deutsch, Spanisch
   </Card>

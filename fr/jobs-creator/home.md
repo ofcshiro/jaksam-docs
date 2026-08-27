@@ -15,6 +15,10 @@ Ceci est la documentation officielle de **Jobs Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/ULCSM0yKPkw">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
   <Card title="Langues Supportées" icon="language">
     Anglais, Bosniaque, Tchèque, Danois, Français, Allemand, Grec, Hongrois, Italien, Polonais, Portugais, Espagnol, Slovaque
   </Card>

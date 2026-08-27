@@ -4,7 +4,7 @@ description: "Hook déclenché avant qu'un item soit utilisé, peut annuler l'ut
 icon: "hand"
 ---
 
-Se déclenche AVANT qu'un item soit utilisé (avant la consommation, les animations et les délais). Ce hook peut annuler l'utilisation de l'item. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#register-a-hook) en utilisant le nom d'event `onPreUseItem`.
+Se déclenche AVANT qu'un item soit utilisé (avant la consommation, les animations et les délais). Ce hook peut annuler l'utilisation de l'item. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#enregistrer-un-hook) en utilisant le nom d'event `onPreUseItem`.
 
 **Ordre d'exécution :** après `STATIC_ITEM.canUse` et `oxServerExport 'usingItem'`, avant la consommation.
 
