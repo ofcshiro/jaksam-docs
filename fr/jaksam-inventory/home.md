@@ -18,25 +18,25 @@ Utilise les options ci-dessous pour trouver rapidement la documentation dont tu 
     Utilise Jaksam Inventory avec **ESX** et **QBCore**.
 
     - [Installation](/fr/jaksam-inventory/installation)
-    - [Rétrocompatibilité](/fr/jaksam-inventory/installation#backwards-compatibility)
+    - [Rétrocompatibilité](/fr/jaksam-inventory/installation#rétrocompatibilité)
   </Tab>
   <Tab title="ESX">
     Documentation spécifique aux serveurs **ESX**.
 
-    - [Installation ESX](/fr/jaksam-inventory/installation#esx-1107)
-    - [Compatibilité ESX](/fr/jaksam-inventory/installation#backwards-compatibility)
+    - [Installation ESX](/fr/jaksam-inventory/installation)
+    - [Compatibilité ESX](/fr/jaksam-inventory/installation#rétrocompatibilité)
   </Tab>
   <Tab title="QBCore">
     Documentation spécifique aux serveurs **QBCore**.
 
-    - [Installation QBCore](/fr/jaksam-inventory/installation#qbcore)
-    - [Compatibilité QB Inventory](/fr/jaksam-inventory/installation#backwards-compatibility)
+    - [Installation QBCore](/fr/jaksam-inventory/installation)
+    - [Compatibilité QB Inventory](/fr/jaksam-inventory/installation#rétrocompatibilité)
   </Tab>
   <Tab title="QBX">
     Documentation spécifique aux serveurs **QBX**.
 
-    - [Installation QBX](/fr/jaksam-inventory/installation#qbx)
-    - [Compatibilité](/fr/jaksam-inventory/installation#backwards-compatibility)
+    - [Installation QBX](/fr/jaksam-inventory/installation)
+    - [Compatibilité](/fr/jaksam-inventory/installation#rétrocompatibilité)
   </Tab>
 </Tabs>
 
@@ -53,8 +53,12 @@ Tu cherches la boutique Jaksam Inventory ou d'autres produits ?
     Découvre-en plus sur Jaksam Inventory et ses fonctionnalités.
   </Card>
 
+  <Card title="Cinématique" icon="film" href="https://youtu.be/5SxnBV253jo">
+    Regarde le trailer cinématique sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Allemand, Espagnol, Français
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 
@@ -65,8 +69,12 @@ Tu cherches la boutique Jaksam Inventory ou d'autres produits ?
     Installe et configure Jaksam Inventory sur ton serveur.
   </Card>
 
-  <Card title="Compatibilité" icon="plug" href="/fr/jaksam-inventory/installation#backwards-compatibility">
+  <Card title="Compatibilité" icon="plug" href="/fr/jaksam-inventory/installation#rétrocompatibilité">
     Fais fonctionner tes scripts existants avec Jaksam Inventory.
+  </Card>
+
+  <Card title="Guides" icon="hire-a-helper" href="/fr/jaksam-inventory/guides/customize-theme">
+    Personnalise le thème, les métadonnées, le crafting et plus encore.
   </Card>
 
   <Card title="Référence développeur" icon="code" href="/fr/jaksam-inventory/functions/client">
@@ -79,19 +87,19 @@ Tu cherches la boutique Jaksam Inventory ou d'autres produits ?
 Jaksam Inventory prend en charge plusieurs frameworks FiveM populaires.
 
 <CardGroup cols={4}>
-  <Card title="ESX" icon="code" href="/fr/jaksam-inventory/installation#esx-1107">
+  <Card title="ESX" icon="code" href="/fr/jaksam-inventory/installation">
     Installation et configuration pour ESX.
   </Card>
 
-  <Card title="QBCore" icon="code" href="/fr/jaksam-inventory/installation#qbcore">
+  <Card title="QBCore" icon="code" href="/fr/jaksam-inventory/installation">
     Installation et configuration pour QBCore.
   </Card>
 
-  <Card title="QBX" icon="code" href="/fr/jaksam-inventory/installation#qbx">
+  <Card title="QBX" icon="code" href="/fr/jaksam-inventory/installation">
     Installation et configuration pour QBX.
   </Card>
 
-  <Card title="OX" icon="box" href="/fr/jaksam-inventory/installation#backwards-compatibility">
+  <Card title="OX" icon="box" href="/fr/jaksam-inventory/installation#rétrocompatibilité">
     Compatibilité avec OX Inventory.
   </Card>
 </CardGroup>

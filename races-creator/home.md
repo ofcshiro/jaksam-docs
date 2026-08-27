@@ -15,8 +15,12 @@ This is the official **Races Creator** documentation.
     Purchase or view the script on Tebex.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/bDprl-eAp60">
+    Watch the full feature showcase on YouTube.
+  </Card>
+
   <Card title="Supported Languages" icon="language">
-    English, Czech, French, German, Hungarian, Italian, Polish
+    English, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

@@ -11,12 +11,12 @@ Esta es la documentación oficial de **Easy Allowlist & Queue**.
     Hilo oficial de lanzamiento en el foro de FiveM.
   </Card>
 
-  <Card title="Tienda en Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Tienda Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Compra o consulta el script en Tebex.
   </Card>
 
-  <Card title="Idiomas soportados" icon="language">
-    Inglés, bosnio, checo, neerlandés, francés, alemán, griego, húngaro, italiano, polaco, español
+  <Card title="Idiomas compatibles" icon="language">
+    Inglés, Bosnio, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Lituano, Polaco, Portugués, Español
   </Card>
 </CardGroup>
 

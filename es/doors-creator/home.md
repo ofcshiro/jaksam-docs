@@ -11,12 +11,16 @@ Esta es la documentación oficial de **Doors Creator**.
     Hilo oficial de lanzamiento en el foro de FiveM.
   </Card>
 
-  <Card title="Tienda en Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Tienda Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Compra o consulta el script en Tebex.
   </Card>
 
-  <Card title="Idiomas soportados" icon="language">
-    Inglés, chino, checo, danés, neerlandés, francés, alemán, griego, húngaro, italiano, lituano, polaco, portugués, español
+  <Card title="Demostración" icon="play" href="https://youtu.be/lvhJ7QjT0mY">
+    Mira la demostración completa en YouTube.
+  </Card>
+
+  <Card title="Idiomas compatibles" icon="language">
+    Inglés, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Lituano, Polaco, Portugués, Español
   </Card>
 </CardGroup>
 
@@ -31,7 +35,7 @@ Esta es la documentación oficial de **Doors Creator**.
     Cambio de iconos, bypass de administrador y otras guías.
   </Card>
 
-  <Card title="Preguntas frecuentes" icon="circle-question" href="/es/doors-creator/faq">
+  <Card title="FAQ" icon="circle-question" href="/es/doors-creator/faq">
     Preguntas frecuentes.
   </Card>
 

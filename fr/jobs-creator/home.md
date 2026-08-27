@@ -7,7 +7,7 @@ icon: "briefcase"
 Ceci est la documentation officielle de **Jobs Creator**.
 
 <CardGroup cols={2}>
-  <Card title="Post sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/jobs-creator-esx-in-game-jobs-creation-menu-without-server-restart/2667762/253">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/jobs-creator-esx-in-game-jobs-creation-menu-without-server-restart/2667762/253">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
@@ -15,8 +15,12 @@ Ceci est la documentation officielle de **Jobs Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
-  <Card title="Langues Supportées" icon="language">
-    Anglais, Bosniaque, Tchèque, Danois, Français, Allemand, Grec, Hongrois, Italien, Polonais, Portugais, Espagnol, Slovaque
+  <Card title="Démonstration" icon="play" href="https://youtu.be/ULCSM0yKPkw">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
+  <Card title="Langues prises en charge" icon="language">
+    Anglais, Bosniaque, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Slovaque, Espagnol
   </Card>
 </CardGroup>
 
@@ -35,7 +39,7 @@ Ceci est la documentation officielle de **Jobs Creator**.
     Questions fréquemment posées.
   </Card>
 
-  <Card title="Référence Développeur" icon="code" href="/fr/jobs-creator/client">
+  <Card title="Référence développeur" icon="code" href="/fr/jobs-creator/client">
     Exports, events et référence d'intégration pour les développeurs.
   </Card>
 </CardGroup>

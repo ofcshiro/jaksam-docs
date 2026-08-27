@@ -4,7 +4,7 @@ description: "Hook déclenché après qu'un item ait été utilisé, notificatio
 icon: "circle-check"
 ---
 
-Se déclenche APRÈS qu'un item ait été utilisé (après la consommation, les animations, les délais et tous les callbacks). Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#register-a-hook) en utilisant le nom d'event `onPostUseItem`.
+Se déclenche APRÈS qu'un item ait été utilisé (après la consommation, les animations, les délais et tous les callbacks). Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#enregistrer-un-hook) en utilisant le nom d'event `onPostUseItem`.
 
 **Ordre d'exécution :** tout à la fin du processus d'utilisation de l'item, après `oxServerExport 'usedItem'`.
 

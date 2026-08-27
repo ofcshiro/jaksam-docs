@@ -7,16 +7,16 @@ icon: "tractor"
 Voici la documentation officielle de **Farming Creator**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/farming-creator-esx-qbcore-in-game-farming-creation-menu/4954237">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/farming-creator-esx-qbcore-in-game-farming-creation-menu/4954237">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Achète ou consulte le script sur Tebex.
   </Card>
 
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Tchèque, Français, Allemand, Hongrois, Italien, Portugais, Espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

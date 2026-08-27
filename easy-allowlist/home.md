@@ -16,7 +16,7 @@ This is the official **Easy Allowlist & Queue** documentation.
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, Bosnian, Czech, Dutch, French, German, Greek, Hungarian, Italian, Polish, Spanish
+    English, Bosnian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

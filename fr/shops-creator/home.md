@@ -7,16 +7,20 @@ icon: "cart-shopping"
 Voici la documentation officielle de **Shops Creator**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/shops-creator-esx-qbcore-easily-create-in-game-admin-and-players-owned-shops/5036627">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/shops-creator-esx-qbcore-easily-create-in-game-admin-and-players-owned-shops/5036627">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/iASxM3jw1CI">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Français, Allemand, Italien, Néerlandais, Polonais, Espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

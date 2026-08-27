@@ -15,8 +15,12 @@ This is the official **Jobs Creator** documentation.
     Purchase or view the script on Tebex.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/ULCSM0yKPkw">
+    Watch the full feature showcase on YouTube.
+  </Card>
+
   <Card title="Supported Languages" icon="language">
-    English, Bosnian, Czech, Danish, French, German, Greek, Hungarian, Italian, Polish, Portuguese, Spanish, Slovak
+    English, Bosnian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Slovak, Spanish
   </Card>
 </CardGroup>
 

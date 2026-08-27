@@ -15,8 +15,12 @@ Dies ist die offizielle Dokumentation von **Dealerships Creator**.
     Kaufe oder sieh dir das Script auf Tebex an.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/Ee1acHJInC0">
+    Sieh dir den kompletten Showcase auf YouTube an.
+  </Card>
+
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Französisch, Deutsch, Spanisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

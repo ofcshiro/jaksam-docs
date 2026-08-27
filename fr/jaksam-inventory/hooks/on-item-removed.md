@@ -4,7 +4,7 @@ description: "Hook déclenché quand un item est retiré d'un inventaire."
 icon: "circle-minus"
 ---
 
-Se déclenche quand un item est retiré d'un inventaire. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#register-a-hook) en utilisant le nom d'event `onItemRemoved`.
+Se déclenche quand un item est retiré d'un inventaire. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#enregistrer-un-hook) en utilisant le nom d'event `onItemRemoved`.
 
 ### Payload
 

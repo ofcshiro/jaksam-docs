@@ -7,16 +7,20 @@ icon: "car"
 Voici la documentation officielle de **Dealerships Creator**.
 
 <CardGroup cols={2}>
-  <Card title="FiveM Forum Post" icon="comments" href="https://forum.cfx.re/t/dealerships-creator-esx-qbcore/5212199">
+  <Card title="Publication sur le forum FiveM" icon="comments" href="https://forum.cfx.re/t/dealerships-creator-esx-qbcore/5212199">
     Fil officiel de sortie sur le forum FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://www.jaksam-scripts.com/">
+  <Card title="Boutique Tebex" icon="cart-shopping" href="https://www.jaksam-scripts.com/">
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/Ee1acHJInC0">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
-    Anglais, Français, Allemand, Espagnol
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Lituanien, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 

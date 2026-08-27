@@ -15,8 +15,16 @@ Voici la documentation officielle de **Drugs Creator**.
     Achète ou consulte le script sur Tebex.
   </Card>
 
+  <Card title="Démonstration" icon="play" href="https://youtu.be/dbT-hRpVWaY">
+    Regarde la démonstration complète sur YouTube.
+  </Card>
+
+  <Card title="Cinématique" icon="film" href="https://youtu.be/aTo-NxrkLIU">
+    Regarde le trailer cinématique sur YouTube.
+  </Card>
+
   <Card title="Langues prises en charge" icon="language">
-    Anglais, allemand, espagnol, français, italien, néerlandais, portugais, tchèque, hongrois, chinois, japonais, persan
+    Anglais, Chinois, Tchèque, Danois, Néerlandais, Français, Allemand, Grec, Hongrois, Italien, Japonais, Lituanien, Persan, Polonais, Portugais, Espagnol
   </Card>
 </CardGroup>
 
@@ -35,7 +43,7 @@ Voici la documentation officielle de **Drugs Creator**.
     Questions fréquemment posées.
   </Card>
 
-  <Card title="Référence pour développeurs" icon="code" href="/fr/drugs-creator/client">
+  <Card title="Référence développeur" icon="code" href="/fr/drugs-creator/client">
     Référence des exports, events et intégration pour développeurs.
   </Card>
 </CardGroup>

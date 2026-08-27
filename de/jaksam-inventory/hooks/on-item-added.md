@@ -4,7 +4,7 @@ description: "Hook, der ausgelöst wird, wenn ein Item zu einem Inventar hinzuge
 icon: "circle-plus"
 ---
 
-Wird ausgelöst, wenn ein Item zu einem Inventar hinzugefügt wird. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#register-a-hook) unter dem Event-Namen `onItemAdded`.
+Wird ausgelöst, wenn ein Item zu einem Inventar hinzugefügt wird. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#einen-hook-registrieren) unter dem Event-Namen `onItemAdded`.
 
 ### Payload
 

@@ -15,8 +15,16 @@ Dies ist die offizielle Dokumentation von **Drugs Creator**.
     Kaufe oder sieh dir das Script auf Tebex an.
   </Card>
 
+  <Card title="Showcase" icon="play" href="https://youtu.be/dbT-hRpVWaY">
+    Sieh dir den kompletten Showcase auf YouTube an.
+  </Card>
+
+  <Card title="Cinematic" icon="film" href="https://youtu.be/aTo-NxrkLIU">
+    Sieh dir den Cinematic-Trailer auf YouTube an.
+  </Card>
+
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Deutsch, Spanisch, Französisch, Italienisch, Niederländisch, Portugiesisch, Tschechisch, Ungarisch, Chinesisch, Japanisch, Persisch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Japanisch, Litauisch, Persisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 

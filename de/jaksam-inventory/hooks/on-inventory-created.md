@@ -4,7 +4,7 @@ description: "Hook, der ausgelöst wird, wenn ein neues Inventar erstellt wird."
 icon: "wand-magic-sparkles"
 ---
 
-Wird ausgelöst, wenn ein neues Inventar erstellt wird. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#register-a-hook) unter dem Event-Namen `onInventoryCreated`.
+Wird ausgelöst, wenn ein neues Inventar erstellt wird. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#einen-hook-registrieren) unter dem Event-Namen `onInventoryCreated`.
 
 ### Payload
 

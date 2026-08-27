@@ -14,6 +14,14 @@ Dies ist die offizielle Dokumentation von **Jobs Creator**.
   <Card title="Tebex Store" icon="cart-shopping" href="https://jaksam1074-fivem-scripts.tebex.io/">
     Kaufe oder sieh dir das Script auf Tebex an.
   </Card>
+
+  <Card title="Showcase" icon="play" href="https://youtu.be/ULCSM0yKPkw">
+    Sieh dir den kompletten Showcase auf YouTube an.
+  </Card>
+
+  <Card title="Unterstützte Sprachen" icon="language">
+    Englisch, Bosnisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Slowakisch, Spanisch
+  </Card>
 </CardGroup>
 
 ## Dokumentation
@@ -31,7 +39,7 @@ Dies ist die offizielle Dokumentation von **Jobs Creator**.
     Häufig gestellte Fragen.
   </Card>
 
-  <Card title="Entwickler-Referenz" icon="code" href="/jobs-creator/client">
+  <Card title="Entwickler-Referenz" icon="code" href="/de/jobs-creator/client">
     Exports, Events und Integrationsreferenz für Entwickler.
   </Card>
 </CardGroup>

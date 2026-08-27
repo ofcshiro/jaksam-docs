@@ -4,7 +4,7 @@ description: "Hook déclenché quand un nouvel inventaire est créé, notificati
 icon: "wand-magic-sparkles"
 ---
 
-Se déclenche quand un nouvel inventaire est créé. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#register-a-hook) en utilisant le nom d'event `onInventoryCreated`.
+Se déclenche quand un nouvel inventaire est créé. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#enregistrer-un-hook) en utilisant le nom d'event `onInventoryCreated`.
 
 ### Payload
 

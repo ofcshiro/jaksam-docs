@@ -4,7 +4,7 @@ description: "Hook déclenché quand un item est transféré entre inventaires, 
 icon: "right-left"
 ---
 
-Se déclenche quand un item est transféré entre inventaires (y compris les déplacements intra-inventaire, par exemple glisser dans le même inventaire). Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#register-a-hook) en utilisant le nom d'event `onItemTransferred`.
+Se déclenche quand un item est transféré entre inventaires (y compris les déplacements intra-inventaire, par exemple glisser dans le même inventaire). Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#enregistrer-un-hook) en utilisant le nom d'event `onItemTransferred`.
 
 ### Payload
 

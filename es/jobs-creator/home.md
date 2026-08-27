@@ -15,8 +15,12 @@ Esta es la documentación oficial de **Jobs Creator**.
     Compra o consulta el script en Tebex.
   </Card>
 
-  <Card title="Idiomas Compatibles" icon="language">
-    Inglés, Bosnio, Checo, Danés, Francés, Alemán, Griego, Húngaro, Italiano, Polaco, Portugués, Español, Eslovaco
+  <Card title="Demostración" icon="play" href="https://youtu.be/ULCSM0yKPkw">
+    Mira la demostración completa en YouTube.
+  </Card>
+
+  <Card title="Idiomas compatibles" icon="language">
+    Inglés, Bosnio, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Lituano, Polaco, Portugués, Eslovaco, Español
   </Card>
 </CardGroup>
 
@@ -35,7 +39,7 @@ Esta es la documentación oficial de **Jobs Creator**.
     Preguntas frecuentes.
   </Card>
 
-  <Card title="Referencia para Desarrolladores" icon="code" href="/es/jobs-creator/client">
+  <Card title="Referencia para desarrolladores" icon="code" href="/es/jobs-creator/client">
     Exports, events y referencia de integración para desarrolladores.
   </Card>
 </CardGroup>

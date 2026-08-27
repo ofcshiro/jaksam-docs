@@ -11,12 +11,12 @@ Esta es la documentación oficial de **Trackers Creator**.
     Hilo oficial de lanzamiento en el foro de FiveM.
   </Card>
 
-  <Card title="Tebex Store" icon="cart-shopping" href="https://www.jaksam-scripts.com/">
+  <Card title="Tienda Tebex" icon="cart-shopping" href="https://www.jaksam-scripts.com/">
     Compra o consulta el script en Tebex.
   </Card>
 
   <Card title="Idiomas compatibles" icon="language">
-    Inglés, Checo, Francés, Alemán, Húngaro, Italiano, Polaco, Español
+    Inglés, Chino, Checo, Danés, Neerlandés, Francés, Alemán, Griego, Húngaro, Italiano, Lituano, Polaco, Portugués, Español
   </Card>
 </CardGroup>
 

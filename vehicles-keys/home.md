@@ -16,7 +16,7 @@ This is the official **Vehicles Keys** documentation.
   </Card>
 
   <Card title="Supported Languages" icon="language">
-    English, Chinese, Czech, Dutch, French, German, Italian, Polish, Portuguese, Spanish
+    English, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Lithuanian, Polish, Portuguese, Spanish
   </Card>
 </CardGroup>
 

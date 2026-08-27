@@ -18,25 +18,25 @@ Nutze die Optionen unten, um schnell die passende Dokumentation zu finden.
     Verwende Jaksam Inventory mit **ESX** und **QBCore**.
 
     - [Installation](/de/jaksam-inventory/installation)
-    - [Abwärtskompatibilität](/de/jaksam-inventory/installation#backwards-compatibility)
+    - [Abwärtskompatibilität](/de/jaksam-inventory/installation#abwärtskompatibilität)
   </Tab>
   <Tab title="ESX">
     Dokumentation speziell für **ESX**-Server.
 
-    - [ESX-Installation](/de/jaksam-inventory/installation#esx-1107)
-    - [ESX-Kompatibilität](/de/jaksam-inventory/installation#backwards-compatibility)
+    - [ESX-Installation](/de/jaksam-inventory/installation)
+    - [ESX-Kompatibilität](/de/jaksam-inventory/installation#abwärtskompatibilität)
   </Tab>
   <Tab title="QBCore">
     Dokumentation speziell für **QBCore**-Server.
 
-    - [QBCore-Installation](/de/jaksam-inventory/installation#qbcore)
-    - [QB-Inventory-Kompatibilität](/de/jaksam-inventory/installation#backwards-compatibility)
+    - [QBCore-Installation](/de/jaksam-inventory/installation)
+    - [QB-Inventory-Kompatibilität](/de/jaksam-inventory/installation#abwärtskompatibilität)
   </Tab>
   <Tab title="QBX">
     Dokumentation speziell für **QBX**-Server.
 
-    - [QBX-Installation](/de/jaksam-inventory/installation#qbx)
-    - [Kompatibilität](/de/jaksam-inventory/installation#backwards-compatibility)
+    - [QBX-Installation](/de/jaksam-inventory/installation)
+    - [Kompatibilität](/de/jaksam-inventory/installation#abwärtskompatibilität)
   </Tab>
 </Tabs>
 
@@ -53,8 +53,12 @@ Auf der Suche nach dem Jaksam-Inventory-Store oder anderen Produkten?
     Erfahre mehr über Jaksam Inventory und seine Funktionen.
   </Card>
 
+  <Card title="Cinematic" icon="film" href="https://youtu.be/5SxnBV253jo">
+    Sieh dir den Cinematic-Trailer auf YouTube an.
+  </Card>
+
   <Card title="Unterstützte Sprachen" icon="language">
-    Englisch, Deutsch
+    Englisch, Chinesisch, Tschechisch, Dänisch, Niederländisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Litauisch, Polnisch, Portugiesisch, Spanisch
   </Card>
 </CardGroup>
 
@@ -65,7 +69,7 @@ Auf der Suche nach dem Jaksam-Inventory-Store oder anderen Produkten?
     Jaksam Inventory auf deinem Server installieren und konfigurieren.
   </Card>
 
-  <Card title="Kompatibilität" icon="plug" href="/de/jaksam-inventory/installation#backwards-compatibility">
+  <Card title="Kompatibilität" icon="plug" href="/de/jaksam-inventory/installation#abwärtskompatibilität">
     Bestehende Scripts mit Jaksam Inventory zum Laufen bringen.
   </Card>
 
@@ -73,7 +77,7 @@ Auf der Suche nach dem Jaksam-Inventory-Store oder anderen Produkten?
     Theme anpassen, Metadaten, Crafting und mehr.
   </Card>
 
-  <Card title="Entwickler-Referenz" icon="code" href="/jaksam-inventory/functions/client">
+  <Card title="Entwickler-Referenz" icon="code" href="/de/jaksam-inventory/functions/client">
     Exports, Events, Hooks und Integrationsreferenz für Entwickler.
   </Card>
 </CardGroup>
@@ -83,19 +87,19 @@ Auf der Suche nach dem Jaksam-Inventory-Store oder anderen Produkten?
 Jaksam Inventory unterstützt mehrere beliebte FiveM-Frameworks.
 
 <CardGroup cols={4}>
-  <Card title="ESX" icon="code" href="/de/jaksam-inventory/installation#esx-1107">
+  <Card title="ESX" icon="code" href="/de/jaksam-inventory/installation">
     Installation und Konfiguration für ESX.
   </Card>
 
-  <Card title="QBCore" icon="code" href="/de/jaksam-inventory/installation#qbcore">
+  <Card title="QBCore" icon="code" href="/de/jaksam-inventory/installation">
     Installation und Konfiguration für QBCore.
   </Card>
 
-  <Card title="QBX" icon="code" href="/de/jaksam-inventory/installation#qbx">
+  <Card title="QBX" icon="code" href="/de/jaksam-inventory/installation">
     Installation und Konfiguration für QBX.
   </Card>
 
-  <Card title="OX" icon="box" href="/de/jaksam-inventory/installation#backwards-compatibility">
+  <Card title="OX" icon="box" href="/de/jaksam-inventory/installation#abwärtskompatibilität">
     Kompatibilität mit OX Inventory.
   </Card>
 </CardGroup>

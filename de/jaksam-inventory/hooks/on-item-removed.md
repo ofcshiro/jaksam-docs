@@ -4,7 +4,7 @@ description: "Hook, der ausgelöst wird, wenn ein Item aus einem Inventar entfer
 icon: "circle-minus"
 ---
 
-Wird ausgelöst, wenn ein Item aus einem Inventar entfernt wird. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#register-a-hook) unter dem Event-Namen `onItemRemoved`.
+Wird ausgelöst, wenn ein Item aus einem Inventar entfernt wird. Registriere mit [`registerHook`](/de/jaksam-inventory/hooks#einen-hook-registrieren) unter dem Event-Namen `onItemRemoved`.
 
 ### Payload
 

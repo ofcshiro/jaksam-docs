@@ -4,7 +4,7 @@ description: "Hook déclenché quand un item est ajouté à un inventaire."
 icon: "circle-plus"
 ---
 
-Se déclenche quand un item est ajouté à un inventaire. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#register-a-hook) en utilisant le nom d'event `onItemAdded`.
+Se déclenche quand un item est ajouté à un inventaire. Enregistre-le avec [`registerHook`](/fr/jaksam-inventory/hooks#enregistrer-un-hook) en utilisant le nom d'event `onItemAdded`.
 
 ### Payload
 
